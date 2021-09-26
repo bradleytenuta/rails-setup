@@ -28,3 +28,5 @@ ruby -v
 gem install bundler -v 1.16.0
 
 gem install rails -v 4.2.8
+
+curl https://cli-assets.heroku.com/install-ubuntu.sh | sh
